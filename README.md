@@ -19,6 +19,9 @@ With this set-up, attempting to check out a file that is already checked out on 
 
 ![](Resources/Warn-Checked-Out.png)
 
+Based on [Unreal Fest Europe 2019
+talk](https://www.youtube.com/watch?v=p4RcDpGQ_tI&t=1722s)
+
 ## Caveats
 
 * Only works with Perforce.
